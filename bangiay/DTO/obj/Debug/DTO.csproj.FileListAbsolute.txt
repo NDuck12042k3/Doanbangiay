@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\DTO\bin\Debug\DTO.dll
+C:\Users\pc\Desktop\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\DTO\bin\Debug\DTO.pdb
+C:\Users\pc\Desktop\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\DTO\obj\Debug\DTO.dll
+C:\Users\pc\Desktop\quanLyBanGiayDA1\QUẢN LÝ CỬA HÀNG BÁN GIÀY SNEAKER\DTO\obj\Debug\DTO.pdb
